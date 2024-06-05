@@ -25,5 +25,5 @@ function standardDivisionAlgorithm(listLength){
     sd = Math.sqrt(b);
 
     console.log(sd);
-    return sd;
+    return alert(`Standard Division Result is: ${sd}`);
 };
